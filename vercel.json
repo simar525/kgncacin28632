@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://sbvu.ac.in/$1"
+ }
+  ]
+}
